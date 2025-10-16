@@ -1,4 +1,4 @@
-# Deck Vieux Dragon
+# Vieux Dragon
 **Auteur :** Un vieux  
 **Categorie :** KARUTA  
 **Type :** NORMAL  
